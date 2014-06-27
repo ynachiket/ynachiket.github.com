@@ -1,5 +1,5 @@
 ![Image of mass led project]
-(https://github.com/ynachiket/ynachiket.github.com/blob/master/maas_led.JPG)
+(https://raw.githubusercontent.com/ynachiket/ynachiket.github.com/master/maas_led.JPG)
 
 By 2020 50 billion devices would be [connected][1]. We already monitor the human body, plants, the water in the oceans along with the smartphones and computers and thus generate enormous amounts of data every second. Today we can monitor our heartbeat and our movements, soon we will be able to accurately deduce when we are going to be sick. Today plants can [tweet when they need water][2] soon the data collected from thousands of plants could be used to automate the entire supply chain of a fertilizer industry. 
 
@@ -26,8 +26,7 @@ What you need:
 
 5: [Breadboarding wire bundle][14] (Optional)
 
-![Image of the breadboard assembly]
-(https://github.com/ynachiket/ynachiket.github.com/blob/master/breadboard.jpg)
+(https://raw.githubusercontent.com/ynachiket/ynachiket.github.com/master/breadboard.jpg)
 
 [Boot up][15] your pi.
 
