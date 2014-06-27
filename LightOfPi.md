@@ -37,23 +37,23 @@ Install [flask][18] webserver on the pi. Once you have a webserver running on th
 
 Now you can easily integrate with Rackspace Cloud Monitoring system by using the [webhook notification type][19]. And there you go; you now have a cool visual aid to help you see what the state of your infrastructure is. The lights will light up 1.5 minutes on an average before you receive the mail in your mailbox. The strip has 32 lights (extensible) and would provide a timeline of the state of your system.
 
-[1][http://share.cisco.com/internet-of-things.html]
-[2][http://www.botanicalls.com/kits/ http://www.koubachi.com/features/system?locale=en]
-[3][http://www.citylab.com/design/2012/07/how-garbage-pickers-athens-predicted-greek-economic-crisis/2425/]
-[4][http://developer.rackspace.com/blog/using-rackspace-cloud-monitoring-to-help-reduce-food-waste.html]
-[5][http://www.rackspace.com/cloud/monitoring/]
-[6][http://docs.rackspace.com/cm/api/v1.0/cm-devguide/content/service-notification-types-crud.html]
-[7][http://geekdom.com]
-[8][http://www.codame.com/]
-[9][http://ani-web.com/etc/codame/leds/amylee_leds_20140512d.pptx]
-[10][http://www.adafruit.com/products/306]
-[11][http://www.adafruit.com/raspberrypi]
-[12][http://www.adafruit.com/products/914]
-[13][http://www.adafruit.com/products/368]
-[14][http://www.adafruit.com/products/153]
-[15][http://www.raspberrypi.org/help/quick-start-guide/]
-[16][https://learn.adafruit.com/light-painting-with-raspberry-pi/hardware]
-[17][http://en.wikipedia.org/wiki/Synchronous_Serial_Interface]
-[18][http://flask.pocoo.org/]
-[19][http://docs.rackspace.com/cm/api/v1.0/cm-devguide/content/service-notification-types-crud.html#service-notification-types-webhook]
+[1]: http://share.cisco.com/internet-of-things.html
+[2]: http://www.botanicalls.com/kits/ http://www.koubachi.com/features/system?locale=en
+[3]: http://www.citylab.com/design/2012/07/how-garbage-pickers-athens-predicted-greek-economic-crisis/2425/
+[4]: http://developer.rackspace.com/blog/using-rackspace-cloud-monitoring-to-help-reduce-food-waste.html
+[5]: http://www.rackspace.com/cloud/monitoring/
+[6]: http://docs.rackspace.com/cm/api/v1.0/cm-devguide/content/service-notification-types-crud.html
+[7]: http://geekdom.com
+[8]: http://www.codame.com/
+[9]: http://ani-web.com/etc/codame/leds/amylee_leds_20140512d.pptx
+[10]: http://www.adafruit.com/products/306
+[11]: http://www.adafruit.com/raspberrypi
+[12]: http://www.adafruit.com/products/914
+[13]: http://www.adafruit.com/products/368
+[14]: http://www.adafruit.com/products/153
+[15]: http://www.raspberrypi.org/help/quick-start-guide/
+[16]: https://learn.adafruit.com/light-painting-with-raspberry-pi/hardware
+[17]: http://en.wikipedia.org/wiki/Synchronous_Serial_Interface
+[18]: http://flask.pocoo.org/
+[19]: http://docs.rackspace.com/cm/api/v1.0/cm-devguide/content/service-notification-types-crud.html#service-notification-types-webhook
 
