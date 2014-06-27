@@ -1,4 +1,4 @@
-By 2020 50 billion devices would be [connected][1] . We already monitor the human body, plants, the water in the oceans along with the smartphones and computers and thus generate enormous amounts of data every second. Today we can monitor our heartbeat and our movements soon we will be able to accurately deduce when we are going to be sick. Today plants can [tweet when they need water][2] soon the data collected from thousands of plants could be used to manage an entire supply chain of a fertilizer industry. 
+By 2020 50 billion devices would be [connected][1]. We already monitor the human body, plants, the water in the oceans along with the smartphones and computers and thus generate enormous amounts of data every second. Today we can monitor our heartbeat and our movements soon we will be able to accurately deduce when we are going to be sick. Today plants can [tweet when they need water][2] soon the data collected from thousands of plants could be used to manage an entire supply chain of a fertilizer industry. 
 
 Mark Liberman calculated the storage requirements for all human speech ever spoken at 42 zettabytes if digitized as 16 kHz 16-bit audio. In 2013 we produced approximately 5 Zettabytes of data that number would be 44 Zettabytes by 2020.
 
@@ -38,7 +38,7 @@ Install [flask][18] webserver on the pi. Once you have a webserver running on th
 Now you can easily integrate with Rackspace Cloud Monitoring system by using the [webhook notification type][19]. And there you go; you now have a cool visual aid to help you see what the state of your infrastructure is. The lights will light up 1.5 minutes on an average before you receive the mail in your mailbox. The strip has 32 lights (extensible) and would provide a timeline of the state of your system.
 
 [1]: http://share.cisco.com/internet-of-things.html
-[2]: http://www.botanicalls.com/kits/ http://www.koubachi.com/features/system?locale=en
+[2]: http://www.botanicalls.com/kits/
 [3]: http://www.citylab.com/design/2012/07/how-garbage-pickers-athens-predicted-greek-economic-crisis/2425/
 [4]: http://developer.rackspace.com/blog/using-rackspace-cloud-monitoring-to-help-reduce-food-waste.html
 [5]: http://www.rackspace.com/cloud/monitoring/
