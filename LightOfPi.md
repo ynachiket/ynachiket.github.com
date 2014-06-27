@@ -44,6 +44,15 @@ Install [flask][18] webserver on the pi. Once you have a webserver running on th
 
 Now you can easily integrate with Rackspace Cloud Monitoring system by using the [webhook notification type][19]. And there you go; you now have a cool visual aid to help you see what the state of your infrastructure is. The lights will light up 1.5 minutes on an average before you receive the mail in your mailbox. The strip has 32 lights (extensible) and would provide a timeline of the state of your system.
 
+
+Thanks a ton to
+
+[Simon Vetter][20]: For helping to hookup the setup with the Rackspace Cloud monitoring [Atom Hopper][21] feed.
+[Rob Emanuele][22]: For helping with the breadboard setup
+[James Buchan][23]: For helping to setup the flask controller
+
+
+
 [1]: http://share.cisco.com/internet-of-things.html
 [2]: http://www.botanicalls.com/kits/
 [3]: http://www.citylab.com/design/2012/07/how-garbage-pickers-athens-predicted-greek-economic-crisis/2425/
@@ -63,4 +72,8 @@ Now you can easily integrate with Rackspace Cloud Monitoring system by using the
 [17]: http://en.wikipedia.org/wiki/Synchronous_Serial_Interface
 [18]: http://flask.pocoo.org/
 [19]: http://docs.rackspace.com/cm/api/v1.0/cm-devguide/content/service-notification-types-crud.html#service-notification-types-webhook
+[20]: https://github.com/simonvetter
+[21]: http://www.rackspace.com/blog/rackspace-open-sources-atom-hopper-an-atom-publishing-server/
+[22]: https://github.com/rjemanuele
+[23]: https://github.com/jjbuchan
 
