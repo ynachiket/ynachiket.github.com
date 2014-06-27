@@ -1,3 +1,5 @@
+# Light of Pi
+
 ![mass led project]
 (https://raw.githubusercontent.com/ynachiket/ynachiket.github.com/master/maas_led.JPG)
 
@@ -47,9 +49,8 @@ Now you can easily integrate with Rackspace Cloud Monitoring system by using the
 
 Thanks a ton to
 
-[Simon Vetter][20]: For helping to hookup the setup with the Rackspace Cloud monitoring [Atom Hopper][21] feed.
-[Rob Emanuele][22]: For helping with the breadboard setup
-[James Buchan][23]: For helping to setup the flask controller
+[Simon Vetter][20]: For helping to hookup the setup with the Rackspace Cloud monitoring [Atom Hopper][21] feed,
+[Rob Emanuele][22]: For helping with the breadboard setup and [James Buchan][23]: For helping to setup the flask controller.
 
 
 
